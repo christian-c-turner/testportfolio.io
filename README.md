@@ -7,7 +7,7 @@
 - B.A., International Relations | Eastern Washington University (_June 2019_)
 
 ## Selected Projects
-- M.Sc. Thesis:
+- [M.Sc. Thesis: ](./projects/project1.md)
 - Urban Green Space Access
 - NLP project
 
